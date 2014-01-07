@@ -1,0 +1,12 @@
+body {
+    width: 970px;
+    margin: auto;
+}
+.col-md-12 h1 {
+    color: #FE6E4C;
+    font-weight: bold;
+    padding: 5px;
+}
+h3 {
+    margin: 10px 0 10px 0;
+}

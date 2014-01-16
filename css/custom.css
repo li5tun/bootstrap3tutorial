@@ -1,8 +1,6 @@
 body {
     padding-top: 80px;
 }
-
-
 .navbar {
     margin-bottom: 0;
 }
@@ -13,8 +11,6 @@ body {
 .socials {
     padding: 10px;
 }
-
-
 .carousel-inner .item .carousel-caption {
     position: absolute;
     top: 200px;
@@ -30,4 +26,10 @@ body {
 }
 h1 {
     margin-bottom: 30px;
+}
+.virticalSlut {
+    margin-bottom: 19px;
+}
+.most-left-btn{
+    margin-top: 10px;
 }
